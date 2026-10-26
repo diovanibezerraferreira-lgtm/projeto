@@ -1,0 +1,17 @@
+{
+  "name": "Treino em Casa meu suor!",
+  "short_name": "MeuSuor",
+  "description": "Treinos em casa sem equipamento para iniciantes com plano de 30 dias e evolução de peso.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c0a",
+  "theme_color": "#080c0a",
+  "icons": [
+    {
+      "src": "/src/assets/images/workout_app_icon_1793015217064.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

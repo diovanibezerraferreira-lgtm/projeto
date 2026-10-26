@@ -1,0 +1,8 @@
+{
+  "name": "Remix Treino em Casa meu suor!",
+  "description": "Aplicativo de treino funcional para iniciantes realizarem exercícios em casa sem equipamentos, com plano de 30 dias, acompanhamento de peso e evolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
